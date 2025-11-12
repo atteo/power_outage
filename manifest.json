@@ -1,0 +1,10 @@
+{
+  "domain": "power_outage",
+  "name": "Power Outage",
+  "version": "1.0.0",
+  "documentation": "https://github.com/atteo/power_outage",
+  "requirements": ["requests", "beautifulsoup4"],
+  "config_flow": true,
+  "iot_class": "cloud_polling",
+  "codeowners": ["@sentinelt"]
+}
